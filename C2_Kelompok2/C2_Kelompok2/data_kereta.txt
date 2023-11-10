@@ -1,0 +1,2 @@
+100,cepat,samarinda,100,10:00,100000
+101,lambat,popopop,200,20:00,200000
